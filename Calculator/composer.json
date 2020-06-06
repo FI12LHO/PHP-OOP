@@ -1,0 +1,16 @@
+{
+    "name": "marlomdeoliveira/calculadora",
+    "description": "Calculator",
+    "authors": [
+        {
+            "name": "Marlom Marques",
+            "email": "marlonemarques0@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Operation\\": "Operation"
+        }
+    },
+    "require": {}
+}

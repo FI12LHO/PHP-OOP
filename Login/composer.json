@@ -1,0 +1,15 @@
+{
+    "name": "marlomdeoliveira/login",
+    "authors": [
+        {
+            "name": "FI12LHO",
+            "email": "marlonemarques0@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LoginMethod\\": "LoginMethod"
+        }
+    },
+    "require": {}
+}
