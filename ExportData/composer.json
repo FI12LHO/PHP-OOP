@@ -1,0 +1,15 @@
+{
+    "name": "marlomdeoliveira/exportdata",
+    "authors": [
+        {
+            "name": "FI12LHO",
+            "email": "marlonemarques0@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Export\\": "Export"
+        }
+    },
+    "require": {}
+}
