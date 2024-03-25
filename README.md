@@ -1,6 +1,4 @@
 # PHP-POO
-
-# Parlador Ideal
 ### Getting started  
 Para executar o projeto, será necessário ter instalado
 - PHP: 7^
